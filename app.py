@@ -141,7 +141,7 @@ if selected == "Projects":
          
             - simple face recognition system.
                 - using opencv and deep learning 
-                -Spring 2025
+                - Spring 2025
                 """)
             st.markdown("[visit Github Repo](https://github.com/amir-elsamahy?tab=projects)")
 
@@ -156,11 +156,11 @@ if selected == "Projects":
             st.subheader("Networking Projects")
             st.write("""
   
-        
+                - university network design and configuration   
                     - using cisco packet tracer
                     - network design and configuration
                     - network security and monitoring
-                    -Fall 2024
+                    - Fall 2024
                 """)
             st.markdown("[visit Github Repo](https://github.com/amir-elsamahy?tab=projects)")
 
@@ -170,10 +170,10 @@ if selected == "Projects":
             st.write("""
 
             - simple c++ project.
-                     -simple OOP project.
-                     -SQL database management system
-                     -management system for company staff.
-                    -spring 2025
+                - simple OOP project.
+                - SQL database management system
+                - management system for company staff.
+                - spring 2025
                 """)
             st.markdown("[visit Github Repo](https://github.com/amir-elsamahy?tab=projects)")
 #page 3
